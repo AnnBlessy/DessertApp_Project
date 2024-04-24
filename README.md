@@ -190,15 +190,16 @@ public class MainActivity2 extends AppCompatActivity {
 
 ## OUTPUT:
 
-![1](https://github.com/AnnBlessy/DessertApp_Project/assets/119477835/0bb2925c-dd1e-4ac4-aafe-eb7918ad5437)
+![1](https://github.com/AnnBlessy/DessertApp_Project/assets/119477835/3c8f476b-82cc-4acb-a932-bc628db6c288)
 
-![2](https://github.com/AnnBlessy/DessertApp_Project/assets/119477835/eeae028f-36d3-4556-a811-149bdc907284)
+![2](https://github.com/AnnBlessy/DessertApp_Project/assets/119477835/3a61f9f2-aaa9-48ac-9323-90afe3a35091)
 
-![3](https://github.com/AnnBlessy/DessertApp_Project/assets/119477835/c5a34668-7dbf-49e9-9320-b06ba90ef2fd)
+![3](https://github.com/AnnBlessy/DessertApp_Project/assets/119477835/936a5669-7ebb-461d-aeb3-ebc9f81efcf3)
 
-![4](https://github.com/AnnBlessy/DessertApp_Project/assets/119477835/c406c61a-dd69-4554-9a79-c05fdbc0552f)
+![4](https://github.com/AnnBlessy/DessertApp_Project/assets/119477835/56255ab3-fd7c-4ac5-9362-a0cd00cdce18)
 
-![5](https://github.com/AnnBlessy/DessertApp_Project/assets/119477835/d75c4f32-fd4a-4ac6-94b0-07674639cffe)
+![5](https://github.com/AnnBlessy/DessertApp_Project/assets/119477835/5424a3e1-90f1-4fe2-9a50-1fd129ab9821)
+
 
 ## RESULT:
 Thus, the Dessert app is created and implemented successfully in Android studio. 
